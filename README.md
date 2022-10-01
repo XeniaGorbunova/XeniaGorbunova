@@ -2,7 +2,7 @@
   
   I'm Xenia. 
   
-  I'm the student on the Sberuniversity Frontend 
+  I'm the student of the Sberuniversity Frontend 
     Development course.
     
   Programming is my passion for now.
